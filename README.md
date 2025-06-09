@@ -1,14 +1,50 @@
-<h1 align="center">Hi 👋, I'm Sujoy Karmakar</h1>
-<h3 align="center">Full-stack dev by day, UI/UX designer by dream. Building beautiful and intuitive experiences!</h3>
+# Sujoy Karmakar
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/sujoyprotik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sujoyprotik" height="30" width="40" /></a>
-<a href="https://dribbble.com/sujoykr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="sujoykr" height="30" width="40" /></a>
-<a href="https://www.behance.net/sujoykr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="sujoykr" height="30" width="40" /></a>
-</p>
+Welcome to my GitHub! I'm a full-stack developer and DevOps enthusiast with a strong focus on backend development, cloud infrastructure, and system design.
+My work spans across Java (Spring Boot), .NET, Node.js, Linux server ops, and web scraping. I aim to build robust, scalable, and maintainable systems.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+## About Me
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sujoy-kr&show_icons=true&locale=en&layout=compact" alt="sujoy-kr" /></p>
+```text
+Name        : Sujoy Karmakar
+Location    : Dhaka, Bangladesh (Open to remote/global roles)
+Email       : thesujoykr@gmail.com
+Dribbble    : https://dribbble.com/sujoykr
+LinkedIn    : https://www.linkedin.com/in/sujoykarmakar
+```
+
+## Skills Snapshot
+
+```text
+Languages            : C#, Java, JavaScript
+Frameworks & Tools   : .NET Core, Node.js, Express.js, SvelteKit, Socket.IO, SignalR, MediatR, AutoMapper
+Frontend Tools       : Tailwind CSS, Figma
+Scraping Tools       : Puppeteer, Cheerio, Stealth Plugins, Rotating Proxies
+DevOps & Automation  : Docker, Docker Compose, GitHub Actions, Shell Scripting, PM2, rsync
+Web Servers          : NGINX (with Let's Encrypt SSL)
+Cloud Platforms      : Azure, DigitalOcean, Vultr, Cloudflare, Oracle Cloud
+Databases            : PostgreSQL, MySQL, MongoDB, SQL Server, Redis, Elasticsearch
+ORM/ODM              : Prisma, Sequelize, Mongoose, Entity Framework Core (EF Core), Dapper
+Authentication       : JWT, OAuth2, Passport.js (Local & Strategies), bcrypt, ASP.NET Identity
+CI/CD                : GitHub Actions, Docker Hub, PM2, Shell Scripting Automation
+Operating Systems    : Ubuntu, Debian, Fedora, Windows, WSL
+Architecture         : REST API Design, MVC, Clean Architecture (learning), DDD (learning)
+Testing & Validation : Jest, Supertest, Postman, Swagger UI, Joi
+API Documentation    : Swashbuckle (ASP.NET Core), Swagger UI
+Monitoring & Logs    : PM2, systemd logs, NGINX access/error logs, Prometheus, Grafana, morgan, winston
+Message Queues       : RabbitMQ (Pub/Sub, Async tasks)
+Typing Speed         : 100+ WPM (average)
+```
+
+Thanks for stopping by!
+
+```
+     ___________
+    < Happy Hacking >
+     -------------
+            \   ^__^
+             \  (oo)\_______
+                (__)\       )\/\
+                    ||----w |
+                    ||     ||
+```
