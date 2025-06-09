@@ -1,7 +1,6 @@
 # Sujoy Karmakar
 
-Welcome to my GitHub! I'm a full-stack developer and DevOps enthusiast with a strong focus on backend development, cloud infrastructure, and system design.
-My work spans across Java (Spring Boot), .NET, Node.js, Linux server ops, and web scraping. I aim to build robust, scalable, and maintainable systems.
+Currently a full-stack JavaScript developer with 3 years of experience, specializing in SvelteKit frontend and Node.js backend development. Actively learning .NET development to expand my backend expertise. Proficient in Linux systems and experienced in managing production VPS environments. I focus on building robust, scalable, and maintainable applications.
 
 ## About Me
 
